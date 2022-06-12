@@ -46,7 +46,9 @@ RegisterNumber:  212221040177
 ```
 
 ## Output:
-![decision tree classifier model](sam.png)
+![decision tree classifier model](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5.1.png)
+![decision tree classifier model](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5.2.png)
+![decision tree classifier model](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/5.3.png)
 
 
 ## Result:
