@@ -47,10 +47,10 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![decision tree classifier model]()
-![decision tree classifier model]()
-![decision tree classifier model]()
-
+![decision tree classifier model](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/data%20head.png)
+![decision tree classifier model](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/is%20null.png)
+![decision tree classifier model](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/data%20info.png)
+![decision tree classifier model](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/classification.png)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
