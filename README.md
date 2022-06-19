@@ -47,9 +47,13 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+#### Data head
 ![decision tree classifier model](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/data%20head.png)
+#### Null terms
 ![decision tree classifier model](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/is%20null.png)
+#### Info of Datas
 ![decision tree classifier model](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/data%20info.png)
+####
 ![decision tree classifier model](https://github.com/vijayganeshn96/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/blob/main/classification.png)
 
 ## Result:
