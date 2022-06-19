@@ -8,13 +8,15 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1.Start the program
-2.Import the numpy,pandas,matplotlib 
-3.Read the dataset of student scores
-4.Assign the columns hours to x and columns scores to y 
-5.From sklearn library select the model to train and test the dataset
-6.Plot the training set and testing set in the graph using matplotlib library
-7.Stop the program
+
+1. Start the program
+2. Import the numpy,pandas,matplotlib 
+3. Read the dataset of student scores
+4. Assign the columns hours to x and columns scores to y 
+5. From sklearn library select the model to train and test the dataset
+6. Plot the training set and testing set in the graph using matplotlib library
+7. Stop the program
+
 ## Program:
 ```
 /*
